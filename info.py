@@ -21,8 +21,9 @@
 # Там есть Docs
 # там есть - Quickstart
 # для установки
+# pip install django
 # pip install django-unfold
-# 
+# pip install django-money
 # Работа с картинками
 # pip install pillow
 #
